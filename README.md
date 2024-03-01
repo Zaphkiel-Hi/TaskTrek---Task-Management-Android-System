@@ -1,7 +1,7 @@
 # TaskTrek---Task-Management-Android-System
-# MyTodoApplication
 
-**MyTodoApplication** is a simple Android application for managing your to-do list. It allows you to add new tasks and reset the entire to-do list if needed. The application uses Room Database to store and manage the tasks.
+
+**TaskTrek** is a simple Android application for managing your to-do list. It allows you to add new tasks and reset the entire to-do list if needed. The application uses Room Database to store and manage the tasks.
 
 ## Features
 
@@ -13,7 +13,7 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/my-todo-application.git
+   git clone https://github.com/your-username/TaskTrek.git
    ```
 
 2. Open the project in Android Studio.
